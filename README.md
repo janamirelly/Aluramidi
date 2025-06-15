@@ -13,15 +13,6 @@ alura-midi/
 ├── images/
 │   └── (imagens do projeto)
 ├── sounds/
-│   ├── pom.wav
-│   ├── clap.wav
-│   ├── tim.wav
-│   ├── puff.wav
-│   ├── splash.wav
-│   ├── toim.wav
-│   ├── psh.wav
-│   ├── tic.wav
-│   └── tom.wav
 └── main.js
 
 🚀 Tecnologias Utilizadas
@@ -30,6 +21,7 @@ alura-midi/
 . JavaScript
 
 🎮 Como Funciona
+
 Cada botão do teclado virtual reproduz um som específico ao ser clicado.
 
 ✅ Interface responsiva
