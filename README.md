@@ -1,6 +1,6 @@
 Projeto Alura Midi - Instrumento Musical Digital.
 
-clique para ver o projeto -> 
+clique para ver o projeto -> https://janamirelly.github.io/Aluramidi/
 
 O Alura Midi é um instrumento musical de interface digital, onde cada botão reproduz o som de um instrumento diferente. Projeto desenvolvido para praticar HTML, CSS (Flexbox) e JavaScript.
 
