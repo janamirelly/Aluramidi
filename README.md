@@ -1,8 +1,8 @@
-Projeto Alura Midi - Instrumento Musical Digital.
+Projeto Aluramidi - Instrumento Musical Digital.
 
 clique para ver o projeto -> https://janamirelly.github.io/Aluramidi/
 
-O Alura Midi é um instrumento musical de interface digital, onde cada botão reproduz o som de um instrumento diferente. Projeto desenvolvido para praticar HTML, CSS (Flexbox) e JavaScript.
+O Aluramidi é um instrumento musical de interface digital, onde cada botão reproduz o som de um instrumento diferente. Projeto desenvolvido para praticar HTML, CSS (Flexbox) e JavaScript.
 
 📂 Estrutura de Pastas
 alura-midi/
@@ -30,19 +30,20 @@ Cada botão do teclado virtual reproduz um som específico ao ser clicado.
 
 📚 Aprendizados
 
-. O principal objetivo deste projeto foi aprimorar as habilidades em JavaScript, especialmente nos seguintes pontos:
+O principal objetivo deste projeto foi aprimorar as habilidades em JavaScript, especialmente nos seguintes pontos:
 
-. Utilização de funções para organizar e reaproveitar código.
+Utilização de funções para organizar e reaproveitar código.
 
-. Manipulação de elementos da DOM usando querySelector e querySelectorAll.
+Manipulação de elementos da DOM usando querySelector e querySelectorAll.
 
-. Uso de estrutura de repetição for para aplicar eventos em múltiplos elementos.
+Uso de estrutura de repetição for para aplicar eventos em múltiplos elementos.
 
-. Implementação de eventos de clique e teclado (onkeydown, onkeyup) para interatividade.
+Implementação de eventos de clique e teclado (onkeydown, onkeyup) para interatividade.
 
-. Validação de elementos no JavaScript com if e else para evitar erros de execução.
+Validação de elementos no JavaScript com if e else para evitar erros de execução.
 
-. Criação de feedback visual ao pressionar as teclas com classList.add e classList.remove.
+Criação de feedback visual ao pressionar as teclas com classList.add e classList.remove.
+
 
 🚀 Principais Conceitos Praticados
 ✔️ Função com parâmetro
